@@ -1,7 +1,7 @@
 {
   "name": "@textbook/tapscript",
   "version": "0.1.0",
-  "description": "",
+  "description": "TypeScript utilities for the Test Anything Protocol",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/textbook/tapscript.git"
   },
   "keywords": [],
-  "author": "Jonathan Sharpe <mail@jonrshar.pe>",
+  "author": {
+    "email": "mail@jonrshar.pe",
+    "name": "Jonathan Sharpe",
+    "url": "https://hello.jonrshar.pe"
+  },
+  "funding": "https://ko-fi.com/textbook",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/textbook/tapscript/issues"
